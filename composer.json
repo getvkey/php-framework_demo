@@ -1,0 +1,22 @@
+{
+    "name": "administrator/php-framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "getvkey",
+            "email": "ucyour@live.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "php-curl-class/php-curl-class": "^8.6",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "application\\": "application"
+        }
+    },
+    "require-dev": {
+    }
+}

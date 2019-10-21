@@ -1,0 +1,10 @@
+/vendor/
+/.idea
+/.vscode
+/log
+/runtime
+/udownload
+/uploads
+.env
+.DS_Store
+.bak
